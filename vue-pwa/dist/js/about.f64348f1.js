@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkmy_vue_pwa"]=self["webpackChunkmy_vue_pwa"]||[]).push([[443],{105:function(n,u,a){a.r(u),a.d(u,{default:function(){return h}});var e=a(3396);const s={class:"about"},t=(0,e._)("h1",null,"This is an about page",-1),r=(0,e._)("h1",null,"Registrando cambios",-1),c=[t,r];function i(n,u){return(0,e.wg)(),(0,e.iD)("div",s,c)}var o=a(89);const l={},f=(0,o.Z)(l,[["render",i]]);var h=f}}]);
+//# sourceMappingURL=about.f64348f1.js.map
